@@ -3,7 +3,7 @@ Four application is created, each application shows one block of exception handl
 (i.e, try, except, else, finally) each block is represented by each django app.
 
 <b>Steps to use this project (command to be run in cmd):</b><br>
-1.download this django project, and add file path (cd python_exception_handling) <br>
+1.download this django project, and add file path (cd django_pythonExceptionHandling) <br>
 2.run server (python manage.py runserver) <br>
 3.Open browser and search the urls <br>
 <b>Generic view :</b> (localhost:8000/try) and (localhost:8000/except) <br>
